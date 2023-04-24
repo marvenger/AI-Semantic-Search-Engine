@@ -1,0 +1,7 @@
+{
+  "good": ["great", "excellent", "fantastic"],
+  "bad": ["terrible", "awful", "poor"],
+  "happy": ["joyful", "pleased", "delighted"],
+  "sad": ["unhappy", "miserable", "gloomy"]
+  // more synonyms can be added here
+}
