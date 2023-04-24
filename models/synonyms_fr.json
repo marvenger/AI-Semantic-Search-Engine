@@ -1,0 +1,6 @@
+{
+  "maison": ["demeure", "habitation", "logement"],
+  "chat": ["felin", "minou", "matou"],
+  "jardin": ["parc", "espace vert", "pelouse"]
+  // more words and synonyms here...
+}
