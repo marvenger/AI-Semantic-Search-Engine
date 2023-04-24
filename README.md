@@ -2,9 +2,6 @@
 This is a search engine project that provides a user interface for searching documents in English and French. The project was developed in Python using various libraries and technologies.
 
 
-## Search Engine Project
-This is a search engine project that provides a user interface for searching documents in English and French. The project was developed in Python using various libraries and technologies.
-
 ## Project Structure
 The project is structured as follows:
 
